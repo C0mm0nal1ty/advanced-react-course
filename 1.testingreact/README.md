@@ -7,6 +7,9 @@ software and app development.
 
 * [React](nuull) - The web framework used
 * [Create React App](https://github.com/facebook/create-react-app).
+* [Redux](nuull) -
+* [React-Redux](nuull) -
+
 
 ## Authors
 
