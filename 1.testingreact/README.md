@@ -3,6 +3,11 @@
 In this project, I learned the fundamentals of testing
 software and app development.
 
+AppLayout
+App Component
+CommmentBox
+CommentList
+
 ## Built With
 
 * [React](nuull) - The web framework used
